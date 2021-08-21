@@ -1,0 +1,16 @@
+  360  cd ..
+  361  ls
+  362  cd Users/ritasidorska/week1
+  363  nano ex3.sh
+  364  sh ex3.sh
+  365  ls
+  366  mkdir ~/week1
+  367  mkdir ~/week1
+  368  cd ~/week1
+  369  cd /usr/bin
+  370  ls | grep "gcc" | sort -r > ~/week1/ex1.txt
+  371  ls
+  372  cd ..
+  373  cd ..
+  374  ls
+  375  cd Users/ritasidorska/week1
