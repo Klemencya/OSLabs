@@ -1,0 +1,3 @@
+16 byte address line => 2^16 bytes, because we have a unique address for each byte.
+2^16/(8*1024) = 8 pages
+Answer: 8 pages

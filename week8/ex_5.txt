@@ -1,0 +1,1 @@
+The difference between physical and virtual addreses is that physical addres is an adress there The physical address is the address where the data resides in the PAM. The virtual address is the address that the CPU uses to retrieve data.
