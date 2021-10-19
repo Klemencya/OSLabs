@@ -1,0 +1,1 @@
+After constructing different sequences of references, we can see that we can increase Hit/Miss ratio by asking for access to pages that already exist in Page Frames. And we can decrease the value of the ratio by increasing of frequency of different pages, that are not in page frames.
