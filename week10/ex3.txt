@@ -1,0 +1,3 @@
+660 mean that we allow to read and to write for users and groups, and don't give any permissions for others
+775 mean that we give all permissions for users and groups, and allow read and execute for others
+777 mean that we give all permissions for user, group, others
