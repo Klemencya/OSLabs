@@ -1,0 +1,17 @@
+A traditional operating system such as Windows doesn’t deal with deadlock recovery as it is a time and space-consuming process. 
+Real-time operating systems use Deadlock recovery. 
+
+Killing the process – 
+Killing all the processes involved in the deadlock. Killing process one by one.
+After killing each process check for deadlock again keep repeating the process till the system recovers from deadlock. 
+Killing all the processes one by one helps a system to break circular wait condition.
+
+Resource Preemption – 
+Resources are preempted from the processes involved in the deadlock, preempted resources are allocated to other processes 
+so that there is a possibility of recovering the system from deadlock. In this case, the system goes into starvation.
+
+We can prevent Deadlock by eliminating any of the above four conditions: Eliminate Mutual Exclusion, Eliminate Hold and wait, 
+Eliminate No Preemption,  Eliminate Circular Wait.
+Deadlock avoidance can be done with Banker’s Algorithm. 
+
+Deadlock prevention is more strict than Deadlock Avoidance. 
